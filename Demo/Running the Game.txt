@@ -1,0 +1,20 @@
+Running the game on a single computer:
+You will need:
+ONE running instance of the server (execute "German Whist Server (Stand-alone).jar")
+TWO running instances of the client (execute "German Whist/German Whist.jar" twice)
+
+On the server...
+Leave everything to the defaults and click "Start Server". If there is a port error, change the port number and restart the server.
+
+On the client...
+Click on "Log in". In the new window, enter:
+user name : (any)
+server    : 127.0.0.1
+port      : 5335 (default), or the one specified in the server application.
+Click "Log in"
+Logging in errors will appear at the bottom of the log-in window.
+The two clients connecting to the server must have a different name.
+
+When both users are successfully logged in to the server, the game begins.
+
+Enjoy!
